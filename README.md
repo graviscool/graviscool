@@ -1,6 +1,6 @@
 ### Hi 👋
 
-![Languages Used!](https://github-readme-stats-graviscool.vercel.app/api/top-langs?username=graviscool&theme=radical&hide=shell)
+![Languages Used!](https://github-readme-stats-graviscool.vercel.app/api/top-langs?username=graviscool&theme=radical&hide=shell&layout=compact)
 
 <!--
 **graviscool/graviscool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
