@@ -1,5 +1,3 @@
-### Hi 👋
-
 ![Languages Used!](https://github-readme-stats-graviscool.vercel.app/api/top-langs?username=graviscool&theme=radical&hide=shell&layout=compact)
 
 <!--
