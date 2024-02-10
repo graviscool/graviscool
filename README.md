@@ -1,7 +1,7 @@
-<a href="https://github.com/graviscool/github-readme-stats">
+<a href="https://github.com/graviscool/">
   <img height=200 align="center" src="https://github-readme-stats-graviscool.vercel.app/api?username=graviscool&theme=tokyonight&show_icons=true&hide=stars&show=prs_merged,prs_merged_percentage" />
 </a>
-<a href="https://github.com/graviscool/github-readme-stats">
+<a href="https://github.com/graviscool/">
   <img height=200 align="center" src="https://github-readme-stats-graviscool.vercel.app/api/top-langs?username=graviscool&theme=radical&hide=shell&layout=compact" />
 </a>
 
