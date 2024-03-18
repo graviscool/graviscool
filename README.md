@@ -1,6 +1,6 @@
 Hi!
 <a href="https://github.com/graviscool/">
-  <img height=200 align="center" src="https://github-readme-stats-graviscool.vercel.app/api?username=graviscool&theme=tokyonight&show_icons=true&hide=stars&show=prs_merged_percentage, reviews&include_all_commits=true&rank_icon=percentile" />
+  <img height=200 align="center" src="https://github-readme-stats-graviscool.vercel.app/api?username=graviscool&theme=tokyonight&show_icons=true&hide=stars&show=prs_merged_percentage,reviews&include_all_commits=true&rank_icon=percentile" />
 </a>
 <a href="https://github.com/graviscool/">
   <img height=200 align="center" src="https://github-readme-stats-graviscool.vercel.app/api/top-langs?username=graviscool&theme=radical&hide=shell&layout=compact" />
