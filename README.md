@@ -3,7 +3,7 @@
 Currently working on: my website :)
 
 Currently learning: Next.js, React
-Proficient in: Python, Java, JavaScript, C, HTML, CSS
+Proficient in: Python, Java, JavaScript, TypeScript, C, HTML, CSS, and Verilog
 
 Looking for: Any opportunities in the software field!
 
