@@ -14,5 +14,8 @@ Looking for: Any opportunities in the software field!
   <img height=200 align="center" src="https://github-readme-stats-orpin-seven-78.vercel.app/api/top-langs?username=graviscool&theme=radical&hide=shell,tcl,batchfile&layout=compact" />
 </a>
 <a href="https://github.com/graviscool/">
-  <img height=200 align="center" src="https://github-readme-stats-orpin-seven-78.vercel.app/api/wakatime?username=graviscool&layout=compact&theme=tokyonight" />
+  <img height=135 align="center" src="https://github-readme-stats-orpin-seven-78.vercel.app/api/wakatime?username=graviscool&layout=compact&theme=tokyonight" />
+</a>
+<a href="https://github.com/graviscool/">
+  <img height=165 align="center" src="https://github-readme-streak-stats-ecru-psi.vercel.app/?user=graviscool&theme=tokyonight" />
 </a>
