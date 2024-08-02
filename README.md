@@ -7,6 +7,7 @@ Proficient in: Python, Java, JavaScript, TypeScript, C, HTML, CSS, and Verilog
 
 Looking for: Any opportunities in the software field!
 
+## Stats 📈
 <a href="https://github.com/graviscool/">
   <img height=200 align="center" src="https://github-readme-stats-orpin-seven-78.vercel.app/api?username=graviscool&theme=tokyonight&show_icons=true&hide=stars&show=prs_merged_percentage,reviews&include_all_commits=true&rank_icon=percentile" />
 </a>
