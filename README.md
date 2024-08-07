@@ -2,8 +2,9 @@
 
 Currently working on: my website :)
 
-Currently learning: Next.js, React
-Proficient in: Python, Java, JavaScript, TypeScript, C, HTML, CSS, and Verilog
+Currently learning: Kubernetes, Generative AI basics!
+
+Proficient in: Python, Java, JavaScript, TypeScript, C, HTML, CSS, Verilog, Next.js, React
 
 Looking for: Any opportunities in the software field!
 
