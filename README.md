@@ -1,8 +1,8 @@
 ## Hi! I'm Gaurav!
 
-Currently working on: my website :)
+Currently working on: work related things :)
 
-Currently learning: Kubernetes, Generative AI basics!
+Currently learning: Nothing :|
 
 Proficient in: Python, Java, JavaScript, TypeScript, C, HTML, CSS, Verilog, Next.js, React
 
