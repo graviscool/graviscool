@@ -1,14 +1,14 @@
 ## Hi! I'm Gaurav!
 
-Currently working on: work related things :)
+Currently working on: idk schoolwork and stuff
 
 Currently learning: Nothing :|
 
 Proficient in: Python, Java, JavaScript, TypeScript, C, HTML, CSS, Verilog, Next.js, React
 
-Looking for: Any opportunities in the software field!
+Looking for: nothing atm :)
 
-## Stats 📈
+## Some Cool Stats 📈
 <a href="https://github.com/graviscool/">
   <img height=200 align="center" src="https://github-readme-stats-orpin-seven-78.vercel.app/api?username=graviscool&theme=tokyonight&show_icons=true&hide=stars&show=prs_merged_percentage,reviews&include_all_commits=true&rank_icon=percentile" />
 </a>
@@ -19,5 +19,5 @@ Looking for: Any opportunities in the software field!
   <img height=135 align="center" src="https://github-readme-stats-orpin-seven-78.vercel.app/api/wakatime?username=graviscool&layout=compact&theme=tokyonight" />
 </a>
 <a href="https://github.com/graviscool/">
-  <img height=165 align="center" src="https://github-readme-streak-stats-ecru-psi.vercel.app/?user=graviscool&theme=tokyonight" />
+  <img height=165 align="center" src="https://github-readme-streak-stats-2-nine.vercel.app/?user=graviscool&theme=tokyonight" />
 </a>
